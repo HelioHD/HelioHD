@@ -44,7 +44,4 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/HelioHD/HelioHD/blob/output/snake.svg" alt="Snake animation" />
-
 ###
