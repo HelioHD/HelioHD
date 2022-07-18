@@ -30,7 +30,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.gifer.com/5eKX.gif"  />
+<img align="center" height="150" src="https://i.gifer.com/5eKX.gif"  />
 
 ###
 
