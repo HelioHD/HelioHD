@@ -28,6 +28,6 @@ Backend/DevOps Developer, apaixonado por segurança da informação e pentest. B
 
 ## 📊 Stats
 
-![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=HelioHD&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HelioHD&layout=compact&theme=tokyonight&hide_border=true)
+![Stats do GitHub](https://github-stats-extended.vercel.app/api?username=HelioHD&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=HelioHD&layout=compact&theme=tokyonight&hide_border=true)
 ![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=HelioHD&theme=tokyonight&hide_border=true)
