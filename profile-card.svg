@@ -50,7 +50,7 @@ text, tspan {white-space: pre;}
 </text>
 <text x="420" y="30" fill="#c9d1d9">
 <tspan x="420" y="30">helio@backend</tspan> -———————————————————————————————————————-—-
-<tspan x="420" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10 + WSL2 (Kali Linux)</tspan>
+<tspan x="420" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Debian/Ubuntu/Kali)</tspan>
 <tspan x="420" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Puntu Digital</tspan>
 <tspan x="420" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Backend/DevOps Developer</tspan>
 <tspan x="420" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code</tspan>
