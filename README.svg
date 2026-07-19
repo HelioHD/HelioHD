@@ -1,71 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="535px" font-size="13px">
-<style>
-@font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
-}
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
-text, tspan {white-space: pre;}
-</style>
-<rect width="985px" height="535px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" font-size="13px">
-<tspan x="15" y="30">                                                            </tspan>
-<tspan x="15" y="45">                                                            </tspan>
-<tspan x="15" y="60">                                                            </tspan>
-<tspan x="15" y="75">                                                            </tspan>
-<tspan x="15" y="90">                  .:------::----:.                          </tspan>
-<tspan x="15" y="105">              .-=*%%@@@@@@%%@%@@%%#+:                       </tspan>
-<tspan x="15" y="120">            :-+*#%@@@@@@@@@@@@@@@@@@%+.                     </tspan>
-<tspan x="15" y="135">           .=*#%%%%@%@@@@@@@@@@@@@@@@@%-                    </tspan>
-<tspan x="15" y="150">          .:=*#%%%%@@@@@@@@@@@@@@@@@@@@@=                   </tspan>
-<tspan x="15" y="165">          .-=*%%%%@@@@@@@@@@@@@@@@@@@@@@#.                  </tspan>
-<tspan x="15" y="180">         ..=*#%%@@@@@@@@@@@@@@@@@@@@%%@@@+                  </tspan>
-<tspan x="15" y="195">          .:::-=+*#%%%@@@@@@@@%%#*+++++*%#                  </tspan>
-<tspan x="15" y="210">             ...  .:=*%%%@@@%*=--=+**##**%-                 </tspan>
-<tspan x="15" y="225">            .-=**=----+#%@@@%#++*%@%%%@@%%=                 </tspan>
-<tspan x="15" y="240">       :::   ..:-*====+*%%%%%*-:..-*++#%%#-                 </tspan>
-<tspan x="15" y="255">       .:==-:-===++-::+=#%#%%%#***#%%#%%%##+                </tspan>
-<tspan x="15" y="270">       .=+#######*++==-+%@@%@@@%%@@%@@@@@@@%:               </tspan>
-<tspan x="15" y="285">       .-+*#%%%%%%%#*==*%@@@%%@@@@@@@@@@@@%%=               </tspan>
-<tspan x="15" y="300">       .:=++##%%%%%*==+#@@@@@@@@@@@@@@@@@@%%=               </tspan>
-<tspan x="15" y="315">       .:-++*#%%@%*-=++*%@@@%@@@@@@@@@@@@%%#-               </tspan>
-<tspan x="15" y="330">       .:-=+##%%%*...  :+#%*=+%@@@@@@@%%@%%*.               </tspan>
-<tspan x="15" y="345">       ..:=+*#%%%#=-:. .-+**##%@@@@@@@%%%%#-                </tspan>
-<tspan x="15" y="360">        .:-+*##%##*=:..:+=---*%@@@@@@@@@%%*.                </tspan>
-<tspan x="15" y="375">         ..-++==-:.  .:=+***+=****%@%%%%#+=                 </tspan>
-<tspan x="15" y="390">         ..::.     ..:::-==+++*=. :*%%%#+-.                 </tspan>
-<tspan x="15" y="405">           .   ..  .-+*#**###*+=: .:*#*-:.                  </tspan>
-<tspan x="15" y="420">              :::   .-=+=-=====++====-:.                    </tspan>
-<tspan x="15" y="435">              :....  ...-===========-.                      </tspan>
-<tspan x="15" y="450">                 ..:--=+*##%%#*+--::.                       </tspan>
-<tspan x="15" y="465">                   ..:-====++=::                            </tspan>
-<tspan x="15" y="480">                      .......                               </tspan>
-</text>
-<text x="420" y="30" fill="#c9d1d9">
-<tspan x="420" y="30">helio@backend</tspan> -———————————————————————————————————————-—-
-<tspan x="420" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10 + WSL2 (Kali Linux)</tspan>
-<tspan x="420" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Puntu Digital</tspan>
-<tspan x="420" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Backend/DevOps Developer</tspan>
-<tspan x="420" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code</tspan>
-<tspan x="420" y="130" class="cc">. </tspan>
-<tspan x="420" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
-<tspan x="420" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">NestJS, Kafka, PostgreSQL, MongoDB</tspan>
-<tspan x="420" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Infra</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">AWS EKS, Kubernetes, Docker</tspan>
-<tspan x="420" y="210" class="cc">. </tspan>
-<tspan x="420" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Security</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Pentest, Kali Linux, Python CLI tooling</tspan>
-<tspan x="420" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Study</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">ADS @ IESB</tspan>
-<tspan x="420" y="290">- Contact</tspan> -——————————————————————————————————————-—-
-<tspan x="420" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">helio.delfinola@gmail.com</tspan>
-<tspan x="420" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">helio-delfino</tspan>
-<tspan x="420" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">HelioHD</tspan>
-<tspan x="420" y="390">- GitHub Stats</tspan> -—————————————————————————————————————-—-
-<tspan x="420" y="410" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">16</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">7</tspan>
-</text>
-</svg>
+# Olá 👋! Eu sou o Hélio Delfino
+
+Backend/DevOps Developer, apaixonado por segurança da informação e pentest. Brasileiro, de Brasília-DF.
+
+![profile card](./profile-card.svg)
+
+## 🛠️ Stack
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 📊 Stats
+
+![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=HelioHD&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HelioHD&layout=compact&theme=tokyonight&hide_border=true)
+![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=HelioHD&theme=tokyonight&hide_border=true)
